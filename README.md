@@ -21,7 +21,7 @@ This is links to my Phd projects done during my time in Göteborgs Universitet a
 
 | Articles                      | Description                               |
 | ----------------------------- | ----------------------------------------- |
-| [Full articles][full_article] | Full articles of three standalone projects |
+| [PhD thesis][full_article] | Full articles of three standalone projects |
 | [Press release by Göteborgs Universitet][gu]| Media coverage|
 | [Interview by Forskning & Framsteg][fof]| Media coverage|
 | [Research feature by Delegationen för migrationsstudier][delmi]| Media coverage|
