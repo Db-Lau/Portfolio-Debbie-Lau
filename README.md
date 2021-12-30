@@ -1,7 +1,7 @@
 
 # Debbie Lau :woman_technologist:
 
-I am a passionate data analyst having experience in both academic and industry in diverse topics. In Göteborgs Universitet, I developed regression models to improve the causal inference of public health and educational policies. While currently in the industry, I continue to use data analystics in the area of supply chain optimization.
+I am a passionate data analyst having experience in both academia and industry in diverse topics. In Göteborgs Universitet, I developed regression models to improve the causal inference of public health and educational policies. While currently in the industry, I continue to use data analytics in the area of supply chain optimization.
 
 Being enthusiastic at the statistical modelling and programming, I enjoy applying these skills to solve realworld questions both at work and leisure. Below shows the directory of repositories I develop during my leisure, and links to my PhD projects.
 
